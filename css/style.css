@@ -1,0 +1,12 @@
+/*レイアウト*/
+.align-center{
+    text-align: center;
+}
+/*ヘッダー
+-------------------------------*/
+.page-header{
+    padding-top: .5rem;
+}
+.logo{
+    width: 250px0;
+}
